@@ -153,6 +153,7 @@
                 emailFocus: false
             }
         },
+        
         computed: {},
         methods: {
             changeBodyClass() {
