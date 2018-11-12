@@ -45,7 +45,7 @@
                 } else {
                     currentIndex = (self.slideIndex < self.value.length -1) ? self.slideIndex + 1 : 0
                 }
-                setTimeout(() =>  self.slideIndex = currentIndex, 1500)
+                setTimeout(() =>  self.slideIndex = currentIndex, 1400)
             },
             runSlide() {
                 const self = this;
